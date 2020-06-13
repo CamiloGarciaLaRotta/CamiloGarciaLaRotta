@@ -1,1 +1,1 @@
-<p align="center"><img src="https://camilogarcialarotta.github.io/img/logo.png" width=250></p>
+<p align="center"><img src="https://camilogarcialarotta.github.io/img/logo.png" width=220></p>
